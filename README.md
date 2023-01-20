@@ -1,3 +1,4 @@
+## Task Description
 1. There are two bugs inside the `PersonComponent`, please find and fix them.
 2. Homer Simpson has a wish counter, please implement the increasing & decreasing click hanlders for this wish counter
 3. Wishes should be negative so do not let user decrease them to negative number
