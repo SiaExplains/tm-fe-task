@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.member {
+  border: 1px solid grey;
+  margin: 10px auto;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+  color: #3f3f3f;
+  font-family: sans-serif;
+  button {
+    min-width: 20px;
+    margin: 0 10px;
+  }
+}
